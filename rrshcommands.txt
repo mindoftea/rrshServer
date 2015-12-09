@@ -1,0 +1,4 @@
+/bin/ls
+/bin/cat
+/bin/wc
+/usr/bin/wc
